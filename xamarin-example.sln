@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31321.278
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "xamarin-example.Android", "xamarin-example\xamarin-example.Android\xamarin-example.Android.csproj", "{454C7F7B-6AD3-4044-A4C5-25DF30813DA0}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "xamarinExample.Android", "xamarin-example\xamarin-example.Android\xamarinExample.Android.csproj", "{454C7F7B-6AD3-4044-A4C5-25DF30813DA0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "xamarin-example.iOS", "xamarin-example\xamarin-example.iOS\xamarin-example.iOS.csproj", "{CA6C0C86-A4FD-4804-A4F5-6C7339E2E64D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "xamarinExample.iOS", "xamarin-example\xamarin-example.iOS\xamarinExample.iOS.csproj", "{CA6C0C86-A4FD-4804-A4F5-6C7339E2E64D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "xamarin-example", "xamarin-example\xamarin-example\xamarin-example.csproj", "{93A6810E-16D4-4D21-B923-9E2B90EEA1C7}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "xamarinExample", "xamarin-example\xamarin-example\xamarinExample.csproj", "{93A6810E-16D4-4D21-B923-9E2B90EEA1C7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
